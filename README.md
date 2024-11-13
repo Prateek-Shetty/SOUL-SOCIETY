@@ -4,7 +4,7 @@ Basic discord bot with some features developed using python
 store this below code in .env 
 
 
-DISCORD_BOT_TOKEN=your_token_here
+DISCORD_TOKEN=your_token_here
 
 CLIENT=your_clientid_here
 
