@@ -1,5 +1,5 @@
 # SOUL-SOCIETY
-Basic discord bot with some features
+Basic discord bot with some features developed using python
 
 store this below code in .env 
 
